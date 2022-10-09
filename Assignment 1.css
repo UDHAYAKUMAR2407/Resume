@@ -1,0 +1,17 @@
+table, th, td {
+    border:1px solid black;
+    background-color: #1B4F72;
+    color: white;
+   }
+ol {
+    font-size: 20px;
+    font-style: italic;
+    color: crimson;
+    font-weight: 600;
+}
+
+
+
+
+
+   
